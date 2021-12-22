@@ -4,7 +4,7 @@ ____
 [Site](https://)
 
 ### Used:
-> ***HTML***
-> ***SCSS***
-> ***JS***
-> ***Bootstrap 5
+* ***HTML***
+* ***SCSS***
+* ***JS***
+* ***Bootstrap 5***
