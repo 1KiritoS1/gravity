@@ -1,5 +1,5 @@
 ____
-# gravity
+# Gravity
 ____
 [Site](https://)
 
