@@ -7,4 +7,4 @@ ____
 > ***HTML***
 > ***SCSS***
 > ***JS***
-> ***Bootstrap 5***
+> ***Bootstrap 5
